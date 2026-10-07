@@ -3,6 +3,6 @@
 
 int main(){
 	printf("hello world\n");
-	retuen 0;
+	return 0;
 }
 
